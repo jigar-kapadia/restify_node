@@ -1,0 +1,16 @@
+{
+  "name": "restify-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "nodemon": "^1.19.3",
+    "restify": "^8.4.0"
+  }
+}
